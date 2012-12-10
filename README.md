@@ -1,4 +1,4 @@
-# GroupHug!
+# GroupHug Reviver
 
 A simple console based application which will scrape the Wayback Machine's  
 cached version of GroupHug - the anonymous social story & support site from  
